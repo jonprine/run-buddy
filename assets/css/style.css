@@ -113,10 +113,6 @@ footer a    {
     font-size: 16px;
 }
 
-.intro  {
-    text-align: center;
-}
-
 .intro p    {
     line-height: 1.7;
     color: #39a6b2;
@@ -147,6 +143,9 @@ footer a    {
     border-color: #39a6b2;
 }
 
+.intro  {
+    text-align: center;
+}
 .steps div  {
     margin-bottom: 80px;
 }
